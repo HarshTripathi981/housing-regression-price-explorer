@@ -1,0 +1,6 @@
+{
+  "name": "Housing Regression & Price Explorer",
+  "description": "Exploratory data analysis of housing features, Python regression model training, prediction error evaluation, and an interactive sample input predictor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
